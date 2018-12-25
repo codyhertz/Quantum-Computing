@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {72262BB7-8559-4984-870F-49F4130FEA32}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bell", "Bell\Bell.csproj", "{3573360E-AB9A-404C-86A8-E64281B662F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3573360E-AB9A-404C-86A8-E64281B662F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3573360E-AB9A-404C-86A8-E64281B662F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3573360E-AB9A-404C-86A8-E64281B662F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3573360E-AB9A-404C-86A8-E64281B662F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72262BB7-8559-4984-870F-49F4130FEA32}
+	EndGlobalSection
+EndGlobal
+>>>>>>> d2ef60db7ff9e132330bfc48bfc4b8a1f1d9d954

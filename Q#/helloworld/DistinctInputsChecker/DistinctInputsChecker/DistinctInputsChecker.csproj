@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -10,3 +11,17 @@
     <PackageReference Include="Microsoft.Quantum.Development.Kit" Version="0.3.1811.2802-preview" />
   </ItemGroup>
 </Project>
+=======
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Quantum.Canon" Version="0.3.1811.2802-preview" />
+    <PackageReference Include="Microsoft.Quantum.Development.Kit" Version="0.3.1811.2802-preview" />
+  </ItemGroup>
+</Project>
+>>>>>>> d2ef60db7ff9e132330bfc48bfc4b8a1f1d9d954

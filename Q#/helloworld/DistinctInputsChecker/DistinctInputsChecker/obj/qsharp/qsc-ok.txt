@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qsc completed succesfully!
+=======
+qsc completed succesfully!
+>>>>>>> d2ef60db7ff9e132330bfc48bfc4b8a1f1d9d954
