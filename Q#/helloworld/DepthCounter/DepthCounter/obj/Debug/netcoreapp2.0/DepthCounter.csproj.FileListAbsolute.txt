@@ -1,0 +1,10 @@
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\obj\Debug\netcoreapp2.0\DepthCounter.csproj.CoreCompileInputs.cache
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\obj\Debug\netcoreapp2.0\DepthCounter.AssemblyInfoInputs.cache
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\obj\Debug\netcoreapp2.0\DepthCounter.AssemblyInfo.cs
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\bin\Debug\netcoreapp2.0\DepthCounter.deps.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\bin\Debug\netcoreapp2.0\DepthCounter.runtimeconfig.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\bin\Debug\netcoreapp2.0\DepthCounter.runtimeconfig.dev.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\bin\Debug\netcoreapp2.0\DepthCounter.dll
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\bin\Debug\netcoreapp2.0\DepthCounter.pdb
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\obj\Debug\netcoreapp2.0\DepthCounter.dll
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DepthCounter\DepthCounter\obj\Debug\netcoreapp2.0\DepthCounter.pdb

@@ -1,0 +1,10 @@
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\obj\Debug\netcoreapp2.0\DistinctInputsChecker.csproj.CoreCompileInputs.cache
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\obj\Debug\netcoreapp2.0\DistinctInputsChecker.AssemblyInfoInputs.cache
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\obj\Debug\netcoreapp2.0\DistinctInputsChecker.AssemblyInfo.cs
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\bin\Debug\netcoreapp2.0\DistinctInputsChecker.deps.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\bin\Debug\netcoreapp2.0\DistinctInputsChecker.runtimeconfig.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\bin\Debug\netcoreapp2.0\DistinctInputsChecker.runtimeconfig.dev.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\bin\Debug\netcoreapp2.0\DistinctInputsChecker.dll
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\bin\Debug\netcoreapp2.0\DistinctInputsChecker.pdb
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\obj\Debug\netcoreapp2.0\DistinctInputsChecker.dll
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\DistinctInputsChecker\DistinctInputsChecker\obj\Debug\netcoreapp2.0\DistinctInputsChecker.pdb
