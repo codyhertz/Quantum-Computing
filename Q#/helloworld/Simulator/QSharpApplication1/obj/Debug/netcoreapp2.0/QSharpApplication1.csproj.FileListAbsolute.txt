@@ -1,0 +1,11 @@
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\bin\Debug\netcoreapp2.0\QSharpApplication1.deps.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\bin\Debug\netcoreapp2.0\QSharpApplication1.runtimeconfig.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\bin\Debug\netcoreapp2.0\QSharpApplication1.runtimeconfig.dev.json
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\bin\Debug\netcoreapp2.0\QSharpApplication1.dll
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\bin\Debug\netcoreapp2.0\QSharpApplication1.pdb
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\obj\Debug\netcoreapp2.0\QSharpApplication1.csproj.CoreCompileInputs.cache
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\obj\Debug\netcoreapp2.0\QSharpApplication1.AssemblyInfoInputs.cache
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\obj\Debug\netcoreapp2.0\QSharpApplication1.AssemblyInfo.cs
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\obj\Debug\netcoreapp2.0\QSharpApplication1.dll
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\obj\Debug\netcoreapp2.0\QSharpApplication1.pdb
+C:\Users\codyh\OneDrive\other one drive\OneDrive\Desktop\programs\quantum\mine\Simulator\QSharpApplication1\obj\Debug\netcoreapp2.0\QSharpApplication1.csprojAssemblyReference.cache
